@@ -1,0 +1,17 @@
+Insert as many events as you would like, just copy and paste the EXACT format. Inter-Event Spacing (line 9) is trivial. * are required.
+
+Event Title: Super Hard CS HW1
+Location:
+Description:
+Start Date (yyyy-mm-dd)*: 2024-02-03
+End Date (yyyy-mm-dd)*: 2024-02-03
+Number of days before event to start sending daily reminders (Min 0, Max 5)*: 1
+
+Event Title: Even Harder CS HW2
+Location:
+Description: Harder than Super Hard
+Start Date (yyyy-mm-dd)*: 2024-02-04
+End Date (yyyy-mm-dd)*: 2024-02-04
+Number of days before event to start sending daily reminders (Min 0, Max 5)*: 3
+
+

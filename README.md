@@ -15,3 +15,6 @@ TO RUN:
     
     
   All events that wish to be added will be written out with the event name, start date,... on inputs.txt in the specified format. Then main.py is executed and     every event listed in inputs.txt will be added to your Google calendar. Please follow the exact format given.
+
+
+P.S. Google pls change the fact that I have to code "Remind me 1440 minutes before the event" instead of "Remind me 1 day before the event" c:
